@@ -12,4 +12,4 @@ Shitao Tang is currently a junior undergraduate student at the [School of Comput
 Education
 ======
 \>\> School of Computing and Artificial Intelligence, Southwest Jiaotong University (2021.09 - current)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>> B.E. in Computer Science and Technology
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\>\> B.E. in Computer Science and Technology
