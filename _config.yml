@@ -25,10 +25,10 @@ author:
   name             : "Shitao Tang"
   pronouns         : # example: "she/her"  
   bio              : "Stay passionate"
-  location         : "999 Xi'an Road, Chengdu, Sichuan"
+  location         : "999 Xi'an Road, Chengdu"
   employer         : #
   uri              : # URL
-  email: "tst17&#64;my.swjtu.edu.cn"
+  email            : "tst17@my.swjtu.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
