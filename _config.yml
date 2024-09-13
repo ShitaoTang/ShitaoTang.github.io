@@ -21,7 +21,7 @@ repository               : "ShitaoTang/ShitaoTang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/tst.png"
+  avatar           : "tst.png"
   name             : "Shitao Tang"
   pronouns         : # example: "she/her"  
   bio              : "Stay passionate"
