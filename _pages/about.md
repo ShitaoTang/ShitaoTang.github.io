@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Shitao Tangs"
+title: "About Shitao Tang"
 author_profile: true
 redirect_from: 
   - /about/
