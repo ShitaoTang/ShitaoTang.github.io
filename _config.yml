@@ -12,7 +12,7 @@ title                    : "Shitao Tang"
 title_separator          : "-"
 name                     : &name "Shitao Tang"
 description              : &description "Stay passionate"
-url                      : https://ShitaoTang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shitaotang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShitaoTang/ShitaoTang.github.io"
 
