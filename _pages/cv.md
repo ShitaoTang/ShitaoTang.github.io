@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the CV of Shitao Tang from [here](../asserts/tst_cv.pdf).
+You can download the CV of Shitao Tang from [here](../files/tst_cv.pdf).
